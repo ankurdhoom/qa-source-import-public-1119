@@ -5,3 +5,7 @@ Throwaway staging QA fixture for the source-import retest (19 Nov). Contains no 
 ## Troubleshooting
 
 If the fixture does not load, re-run the import. No other steps apply.
+
+## Contact
+
+QA contact for this fixture: testing1@skills-layer.com
